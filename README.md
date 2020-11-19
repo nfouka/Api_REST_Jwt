@@ -1,4 +1,4 @@
-# Api_REST_Jwt
+# Api REST Jwt Auth 
 API Rest With  Nelmio/api-doc On Symfony 5 
 
 
@@ -34,3 +34,7 @@ $ mkdir -p config/jwt
 $ openssl genrsa -out config/jwt/private.pem -aes256 4096
 $ openssl rsa -pubout -in config/jwt/private.pem -out config/jwt/public.pem
 ```
+
+##Demo : 
+
+http://localhost:8000/api/doc
