@@ -10,8 +10,7 @@ API Rest With  Nelmio/api-doc On Symfony 5
 ## Informations de connexion
 
 Utilisateurs créés via les fixtures :
-- admin@attineos.com / admin
-- user@attineos.com / user
+- NEW User : nadir , password : nadir
 
 ## Installation 
 
