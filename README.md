@@ -37,3 +37,5 @@ $ openssl rsa -pubout -in config/jwt/private.pem -out config/jwt/public.pem
 ##Demo : 
 
 http://localhost:8000/api/doc
+
+<img src='https://raw.githubusercontent.com/nfouka/Api_REST_Jwt/main/Capture.PNG' />
